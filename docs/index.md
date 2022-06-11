@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://miguelgonzalezdigital.com/wp-content/uploads/2021/10/webdesign-vps.gif
 tagline: Dev education
 actionText: Quick Start →
 actionLink: /guide/
@@ -13,3 +13,5 @@ features:
   details: Feature 3 Description
 footer: Made by Ruben with ❤️
 ---
+
+# Foo
