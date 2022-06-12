@@ -1,5 +1,5 @@
 {
-    "name": "Rubru Wiki",
+    "name": "Wiki",
     "version": "0.0.1",
     "description": "Dev education",
     "main": "index.js",
@@ -7,7 +7,7 @@
         "name": "Ruben",
         "email": "rubenru94@hotmail.com"
     },
-    "repository": "https://github.com/Rubru94/Rubru94.github.io/Rubru Wiki",
+    "repository": "https://github.com/Rubru94/wiki/",
     "scripts": {
         "dev": "vuepress dev src",
         "build": "vuepress build src && cp -r ./src/.vuepress/dist/* ./docs/"
