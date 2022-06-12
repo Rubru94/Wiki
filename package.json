@@ -1,19 +1,19 @@
 {
-  "name": "Rubru Wiki",
-  "version": "0.0.1",
-  "description": "Dev education",
-  "main": "index.js",
-  "authors": {
-    "name": "Ruben",
-    "email": "rubenru94@hotmail.com"
-  },
-  "repository": "https://github.com/Rubru94/Rubru94.github.io/Rubru Wiki",
-  "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^1.5.3"
-  }
+    "name": "Rubru Wiki",
+    "version": "0.0.1",
+    "description": "Dev education",
+    "main": "index.js",
+    "authors": {
+        "name": "Ruben",
+        "email": "rubenru94@hotmail.com"
+    },
+    "repository": "https://github.com/Rubru94/Rubru94.github.io/Rubru Wiki",
+    "scripts": {
+        "dev": "vuepress dev src",
+        "build": "vuepress build src && cp -r ./src/.vuepress/dist/* ./docs/"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "vuepress": "^1.5.3"
+    }
 }
