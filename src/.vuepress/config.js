@@ -43,6 +43,10 @@ module.exports = {
             {
                 text: 'VuePress',
                 link: 'https://v1.vuepress.vuejs.org'
+            },
+            {
+                text: 'jugon.es',
+                link: 'https://rubru94.github.io/jugon.es/'
             }
         ],
         sidebar: {
