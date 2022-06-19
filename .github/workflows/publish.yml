@@ -14,7 +14,7 @@ jobs:
     - name: Checkout 🛎️
       uses: actions/checkout@master
 
-    - name: vuepress-deploy 🔧🚀
+    - name: vuepress-build-&-deploy 🔧🚀
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
