@@ -1,5 +1,6 @@
 # Git
 
+![git](../../.vuepress/public/git.gif)
 ## Introducción
 
 **Git** es un sistema de control de versiones distribuido. Esto significa que un clon local del proyecto es un repositorio de control de versiones completo. 

@@ -1,3 +1,6 @@
+#
+# Ref: https://vuepress.vuejs.org/guide/deploy.html#github-pages
+#
 name: Publish to GitHub Pages 
 
 on:
