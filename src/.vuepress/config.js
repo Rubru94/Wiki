@@ -31,12 +31,12 @@ module.exports = {
         // As a special case, the default locale can use '/' as its path.
         '/': {
             lang: 'es-ES', // this will be set as the lang attribute on <html>
-            title: 'VuePress',
+            title: 'Wiki',
             description: 'Vue Sitio web'
         },
         '/en/': {
             lang: 'en-US', // this will be set as the lang attribute on <html>
-            title: 'VuePress',
+            title: 'Wiki',
             description: 'Vue-powered Static Site Generator'
         },
     },
