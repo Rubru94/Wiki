@@ -4,7 +4,7 @@ module.exports = {
     /**
      * Ref：https://cli.vuejs.org/config/#publicpath
      */
-    publicPath: './',
+    publicPath: '/wiki/',
     /**
      * Ref：https://v1.vuepress.vuejs.org/config/#title
      */
