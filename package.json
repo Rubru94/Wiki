@@ -10,7 +10,7 @@
     "repository": "https://github.com/Rubru94/wiki/",
     "scripts": {
         "dev": "vuepress dev src",
-        "build": "vuepress build src && cp -r ./src/.vuepress/dist/* ./docs/"
+        "build": "vuepress build src"
     },
     "license": "MIT",
     "devDependencies": {
