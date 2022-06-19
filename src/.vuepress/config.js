@@ -3,8 +3,10 @@ const { description } = require('../../package')
 module.exports = {
     /**
      * Ref：https://cli.vuejs.org/config/#publicpath
+     * Ref: https://stackoverflow.com/questions/41395641/vuejs-difficulties-to-build-with-relative-path#:~:text=I%20have%20solved%20my%20problem%20with%20the%20following%20vue.config.js%20settings%3A
      */
     publicPath: '/wiki/',
+    assetsDir: '/wiki/',
     /**
      * Ref：https://v1.vuepress.vuejs.org/config/#title
      */
