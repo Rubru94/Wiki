@@ -3,7 +3,7 @@ home: true
 base: '/wiki/'
 heroImage: https://miguelgonzalezdigital.com/wp-content/uploads/2021/10/webdesign-vps.gif
 tagline: Dev education
-actionText: Inicio rápido →
+actionText: Quick Start →
 actionLink: /guide/
 features:
 - title: Feature 1 Title
