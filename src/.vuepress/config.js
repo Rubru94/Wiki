@@ -1,7 +1,9 @@
 const { description } = require('../../package')
 
 module.exports = {
-
+    /**
+     * Ref：https://vuepress.vuejs.org/config/#overview
+     */
     base: '/wiki/',
     /**
      * Ref：https://v1.vuepress.vuejs.org/config/#title
