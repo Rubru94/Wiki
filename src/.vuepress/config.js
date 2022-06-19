@@ -67,11 +67,11 @@ module.exports = {
                 algolia: {},
                 nav: [{
                         text: 'Guía',
-                        link: 'guide/',
+                        link: '/guide/',
                     },
                     {
                         text: 'Config',
-                        link: 'config/'
+                        link: '/config/'
                     },
                     {
                         text: 'VuePress',
@@ -88,7 +88,6 @@ module.exports = {
                         collapsable: false,
                         children: [
                             '',
-                            //'using-vue',
                             'git/',
                             'github/'
                         ]
@@ -109,11 +108,11 @@ module.exports = {
                 algolia: {},
                 nav: [{
                         text: 'Guide',
-                        link: 'en/guide/',
+                        link: '/en/guide/',
                     },
                     {
                         text: 'Config',
-                        link: 'en/config/'
+                        link: '/config/'
                     },
                     {
                         text: 'VuePress',
@@ -130,7 +129,6 @@ module.exports = {
                         collapsable: false,
                         children: [
                             '',
-                            //'using-vue',
                             'git/',
                             'github/'
                         ]
