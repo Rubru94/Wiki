@@ -5,14 +5,14 @@ heroImage: https://miguelgonzalezdigital.com/wp-content/uploads/2021/10/webdesig
 tagline: Dev education
 actionText: Quick Start →
 actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
 footer: Made by Ruben with ❤️
 ---
 
-# Foo
+<div class="features">
+  <div class="feature">
+    <h2>
+      <a href="https://github.com/goldbergyoni/javascript-testing-best-practices" target="_blank">js & node Testing Best Practices</a>
+    </h2>
+    <p>📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices</p>
+  </div>
+</div>
