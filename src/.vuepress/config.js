@@ -92,8 +92,9 @@ module.exports = {
                         collapsable: false,
                         children: [
                             '',
+                            'docker/',
                             'git/',
-                            'github/'
+                            'github/',
                         ]
                     }],
 
@@ -133,8 +134,9 @@ module.exports = {
                         collapsable: false,
                         children: [
                             '',
+                            'docker/',
                             'git/',
-                            'github/'
+                            'github/',
                         ]
                     }],
 
