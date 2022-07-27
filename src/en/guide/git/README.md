@@ -1,4 +1,7 @@
 # Git
+<p align="center">
+    <img src="../../../.vuepress/public/git.gif">
+</p>
 
 ## Introduction
 
